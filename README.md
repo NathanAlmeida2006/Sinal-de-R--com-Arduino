@@ -1,4 +1,4 @@
-# Projeto: Sinal de Ré com Sensor de Distância, LED RGB e Buzzer
+# Sinal de Ré com Sensor de Distância, LED RGB e Buzzer
 
 ## Descrição
 
@@ -46,6 +46,12 @@ Este projeto simula um sinal de ré para veículos utilizando um sensor de dist�
 2. Abra a Arduino IDE e carregue o código fornecido.
 3. Faça o upload do código para o Arduino.
 4. Abra o monitor serial para ver as leituras de distância em tempo real.
+
+## Visualização do projeto
+
+Link para o projeto: [https://wokwi.com/projects/403143780824335361]
+
+![image](https://github.com/user-attachments/assets/5dc98f16-7a7a-4480-b816-85286e8c81b1)
 
 ## Contato:
 
